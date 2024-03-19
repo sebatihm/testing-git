@@ -1,0 +1,1 @@
+I spend like 1 hour to figure how to "log in" to git from a Ubuntu distro
